@@ -36,7 +36,7 @@ We use [SemVer](http://semver.org/) for versioning. For available versions, see 
 ## Authors
 
 * **Syntafin** - *Main development* - [Syntafin](https://github.com/syntafin)
-* **Spiswel** - *Main French translation - [AdagioFantasque](https://github.com/AdagioFantasque)
+* **Spiswel** - *Main French translation* - [AdagioFantasque](https://github.com/AdagioFantasque)
 
 See also the list of [contributors](https://github.com/syntafin/xivdata/graphs/contributors) who participated in this project.
 
