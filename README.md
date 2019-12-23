@@ -17,7 +17,7 @@
 
 ## About the project
 
-Public Repository for the XIVDATA project!More information comming soon.
+Public Repository for the XIVDATA project! We want to bring a database for the game Final Fantasy XIV, that is good or better then XIVDB was!
 
 ## Contributing
 
