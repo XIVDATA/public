@@ -22,7 +22,7 @@ Public Repository for the XIVDATA project! We want to bring a database for the g
 
 ## Contributing
 
-There are many ways to help this open source project. Write tutorials, improve documentation, share bugs with others, make feature requests, or just write code. We look forward to every contribution.
+There are many ways to help this open source project. Write bug reports, make feature requests, write code, help us translate the page (maybe we will support Chinese and Korean if we have people who help us with). We look forwar to every contribution.
 
 For more information and our guidelines, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
