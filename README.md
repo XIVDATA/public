@@ -1,4 +1,4 @@
-# XIVDATA
+<p align="center"><img src="https://de.xivdata.com/userdata/logo-sm.png" width="400"></p>
 <p align="center>
     <a href="https://github.com/syntafin/xivdata/blob/master/LICENSE"><img src="https://img.shields.io/github/license/syntafin/xivdata?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
     <a href="https://github.com/syntafin/xivdata/graphs/contributors"><img src="https://img.shields.io/github/contributors/syntafin/xivdata?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
