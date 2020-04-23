@@ -32,14 +32,14 @@ And most times stable version of the on-going development version can be found [
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/TitusKirch/common-passwords/tags). 
+We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/XIVDATA/public/tags). 
 
 ## Authors
 
 * **Syntafin** - *Main development* - [Syntafin](https://github.com/syntafin)
 * **Spiswel** - *Main French translation* - [AdagioFantasque](https://github.com/AdagioFantasque)
 
-See also the list of [contributors](https://github.com/syntafin/xivdata/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/XIVDATA/public/graphs/contributors) who participated in this project.
 
 ## Support
 
