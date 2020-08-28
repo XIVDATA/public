@@ -4,6 +4,7 @@
 <a href="https://github.com/xivdata/public/blob/master/LICENSE"><img src="https://img.shields.io/github/license/syntafin/xivdata?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
 <a href="https://github.com/syntafin/xivdata/graphs/contributors"><img src="https://img.shields.io/github/contributors/syntafin/xivdata?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
 <a href="https://discord.gg/R8KjJWE"><img src="https://img.shields.io/discord/532518284998737920?label=Discord&labelColor=30363D&color=2FBF50&logoColor=959DA5&logo=Discord" alt="Discord"></a>
+<img src="https://api.netlify.com/api/v1/badges/4428e7c3-983b-4196-be11-d92dcdf248d9/deploy-status" alt="Netlify Status" />
 </p>
 
 ## Table of contents
