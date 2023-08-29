@@ -40,6 +40,7 @@ We use [SemVer](http://semver.org/) for versioning. For available versions, see 
 * **Syntafin** - *Main development* - [Syntafin](https://github.com/syntafin)
 * **Spiswel** - *Main French translation* - [AdagioFantasque](https://github.com/AdagioFantasque)
 * **Weneg** - *Developer* - [Weneg](https://github.com/Weneg)
+* **MrNamazu** - *Frontend Developer* - [MrNamazu](https://github.com/MrNamazu)
 
 See also the list of [contributors](https://github.com/XIVDATA/public/graphs/contributors) who participated in this project.
 
